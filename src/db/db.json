@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Winter Darkest Tragedy",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-1.jpg",
+    "pice": "$38.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JOHN STRASS"
+  },
+  {
+    "id": 2,
+    "name": "Symphony Of Trilogy",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-2.jpg",
+    "pice": "$22.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JESSICA JOHNSON"
+  },
+  {
+    "id": 3,
+    "name": "Fantasy Storytelling",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-8.jpg",
+    "pice": "$29.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY ADAM STRASS"
+  },
+  {
+    "id": 4,
+    "name": "Wellness And Paradise",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-3.jpg",
+    "pice": "$67.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JANE DOE"
+  },
+  {
+    "id": 5,
+    "name": "Renaissance History",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-7.jpg",
+    "pice": "$30.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JAMES HOFFMAN"
+  },
+  {
+    "id": 6,
+    "name": "Easy Fast Cooking",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-9.jpg",
+    "pice": "$78.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JOHN STRASS"
+  },
+  {
+    "id": 7,
+    "name": "Amster Hamster Trip",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-4.jpg",
+    "pice": "$69.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JAMES HOFFMAN"
+  },
+  {
+    "id": 8,
+    "name": "Renaissance History",
+    "img": "https://chapterone.qodeinteractive.com/wp-content/uploads/2019/07/product-10.jpg",
+    "pice": "$30.00",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit. Simul vidisse eu vim. Probo tincidunt ne vel.",
+    "author": "BY JAMES HOFFMAN"
+  }
+]

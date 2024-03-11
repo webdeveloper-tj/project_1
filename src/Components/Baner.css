@@ -1,0 +1,9 @@
+.my-row {
+  row-gap: 50px;
+}
+.my-col img {
+  width: 200px;
+  height: 300px;
+  border-radius: 5px;
+  cursor: pointer;
+}
